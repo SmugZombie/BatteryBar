@@ -1,0 +1,2 @@
+# BatteryBar
+AlwaysOnTop Battery Meter
